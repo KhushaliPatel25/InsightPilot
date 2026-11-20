@@ -1,0 +1,38 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local database files
+*.duckdb
+*.duckdb.wal
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

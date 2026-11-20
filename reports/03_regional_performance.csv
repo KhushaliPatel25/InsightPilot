@@ -1,0 +1,6 @@
+region,total_orders,unique_customers,units_sold,total_revenue,total_profit,avg_order_value,profit_margin_pct,revenue_share_pct,revenue_rank
+Alberta,3026,2035,6425.0,340472.09,162462.09,112.52,47.72,20.5,1
+Ontario,3027,2038,6207.0,338069.08,159828.08,111.68,47.28,20.35,2
+Atlantic Canada,2989,2017,6227.0,330859.71,157644.71,110.69,47.65,19.92,3
+Quebec,2975,2012,6274.0,328529.2,157771.2,110.43,48.02,19.78,4
+British Columbia,2983,2034,6190.0,323175.91,154948.91,108.34,47.95,19.46,5

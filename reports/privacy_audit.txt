@@ -1,0 +1,21 @@
+INSIGHTPILOT - PRIVACY AUDIT REPORT
+=======================================================
+
+Text files scanned: 22
+Text files skipped: 0
+Image files identified: 12
+Potential issues: 0
+
+No sensitive text patterns detected.
+
+MANUAL REVIEW STILL REQUIRED
+----------------------------------------
+1. Inspect every screenshot for private information.
+2. Check datasets and reports for sensitive content.
+3. Confirm API keys and passwords are excluded.
+4. Verify the exact contents of the final ZIP.
+5. Ensure .venv and local databases are excluded.
+6. Remember .gitignore does not protect ZIP files.
+
+This automated scan is not a guarantee of privacy.
+Potential matches are reported without secret values.
